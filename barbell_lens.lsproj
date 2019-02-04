@@ -1,0 +1,1387 @@
+{
+    "lens_id": "4a500a2e-bbd3-4fcd-883f-2750cd5dcc69",
+    "version": "0",
+    "lastChanged": "1515957333024",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "ground_grid"
+                    ],
+                    [
+                        "Materials",
+                        "matte_shadow"
+                    ],
+                    [
+                        "Materials",
+                        "touch_collision"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "ground_grid"
+                    ],
+                    [
+                        "Meshes",
+                        "plane"
+                    ],
+                    [
+                        "Meshes",
+                        "touch_collision"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "base"
+                    ],
+                    [
+                        "Textures",
+                        "ground_grid"
+                    ],
+                    [
+                        "Textures",
+                        "ground_grid_mask"
+                    ],
+                    [
+                        "Textures",
+                        "marvista_diff"
+                    ],
+                    [
+                        "Textures",
+                        "marvista_spec"
+                    ],
+                    [
+                        "barbell"
+                    ],
+                    [
+                        "barbell",
+                        "Materials"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat0"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat1"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat10"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat11"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat12"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat13"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat14"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat15"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat16"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat17"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat18"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat19"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat2"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat20"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat21"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat22"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat23"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat24"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat25"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat3"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat4"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat5"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat6"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat7"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat8"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat9"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_1"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_2"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_3"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_4"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_5"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1509398098262568:84736",
+                    "1515547564288248:18604"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "f4335e2639b38a1e3009a37160a4a61c",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "hit the weights"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mesh.fbx",
+                    "additionalProperties": {
+                        "name": "ground_grid_mesh"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/GroundGrid.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mat.mat",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1499276508720146:1345",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Snapchat\/studio3d-support\/helper_scripts\/PlayAnimation.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1502830760689594:60799",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "\/var\/folders\/nd\/9vg2b63x7sz3ny4j8bcrnpvr0000gn\/T\/Studio3D-1JFZ7i\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1508369089503424:114526",
+                    "name": "\/Resources\/Resource53.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "238",
+                    "uid": "1508958926896269:113711",
+                    "name": "\/Resources\/Resource238.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Studio3D\/envmaps\/marvista_1209448440_diff.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "239",
+                    "uid": "1508958926915378:113720",
+                    "name": "\/Resources\/Resource239.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Studio3D\/envmaps\/marvista_1209448440_spec.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "579",
+                    "uid": "1508965141679325:166598",
+                    "name": "\/Resources\/Resource579.mesh",
+                    "sourceFilePath": "\/Users\/doug.holder\/Documents\/TouchCollisionCube.fbx",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "798",
+                    "uid": "1511403106937749:234685",
+                    "name": "\/Resources\/Resource798",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "799",
+                    "uid": "1511403106939565:234697",
+                    "name": "\/Resources\/Resource799.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "800",
+                    "uid": "1511403174089713:242951",
+                    "name": "\/Resources\/Resource800",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "804",
+                    "uid": "1515547563456926:18422",
+                    "name": "\/Resources\/Resource804",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat0"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "805",
+                    "uid": "1515547563572675:18429",
+                    "name": "\/Resources\/Resource805",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat1"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "806",
+                    "uid": "1515547563595021:18436",
+                    "name": "\/Resources\/Resource806",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat2"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "807",
+                    "uid": "1515547563635169:18443",
+                    "name": "\/Resources\/Resource807",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat3"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "808",
+                    "uid": "1515547563666245:18450",
+                    "name": "\/Resources\/Resource808",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat4"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "809",
+                    "uid": "1515547563700221:18457",
+                    "name": "\/Resources\/Resource809",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat5"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "810",
+                    "uid": "1515547563733233:18464",
+                    "name": "\/Resources\/Resource810",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat6"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "811",
+                    "uid": "1515547563756818:18471",
+                    "name": "\/Resources\/Resource811",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat7"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "812",
+                    "uid": "1515547563783345:18478",
+                    "name": "\/Resources\/Resource812",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat8"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "813",
+                    "uid": "1515547563809132:18485",
+                    "name": "\/Resources\/Resource813",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat9"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "814",
+                    "uid": "1515547563842436:18492",
+                    "name": "\/Resources\/Resource814",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat10"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "815",
+                    "uid": "1515547563884551:18499",
+                    "name": "\/Resources\/Resource815",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat11"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "816",
+                    "uid": "1515547563916985:18506",
+                    "name": "\/Resources\/Resource816",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat12"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "817",
+                    "uid": "1515547563952576:18513",
+                    "name": "\/Resources\/Resource817",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat13"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "818",
+                    "uid": "1515547563974760:18520",
+                    "name": "\/Resources\/Resource818",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat14"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "819",
+                    "uid": "1515547563993759:18527",
+                    "name": "\/Resources\/Resource819",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat15"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "820",
+                    "uid": "1515547564014142:18534",
+                    "name": "\/Resources\/Resource820",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat16"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "821",
+                    "uid": "1515547564032045:18541",
+                    "name": "\/Resources\/Resource821",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat17"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "822",
+                    "uid": "1515547564066023:18548",
+                    "name": "\/Resources\/Resource822",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat18"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "823",
+                    "uid": "1515547564091719:18555",
+                    "name": "\/Resources\/Resource823",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat19"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "824",
+                    "uid": "1515547564119831:18562",
+                    "name": "\/Resources\/Resource824",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat20"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "825",
+                    "uid": "1515547564142048:18569",
+                    "name": "\/Resources\/Resource825",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat21"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "826",
+                    "uid": "1515547564164963:18576",
+                    "name": "\/Resources\/Resource826",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat22"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "827",
+                    "uid": "1515547564187075:18583",
+                    "name": "\/Resources\/Resource827",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat23"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "828",
+                    "uid": "1515547564215548:18590",
+                    "name": "\/Resources\/Resource828",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat24"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "829",
+                    "uid": "1515547564253709:18597",
+                    "name": "\/Resources\/Resource829",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "mat25"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "856",
+                    "uid": "1515547564288983:18610",
+                    "name": "\/Resources\/Resource856.mesh",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "_1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "857",
+                    "uid": "1515547564289106:18616",
+                    "name": "\/Resources\/Resource857.mesh",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "858",
+                    "uid": "1515547564289659:18622",
+                    "name": "\/Resources\/Resource858.mesh",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "_3"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "859",
+                    "uid": "1515547564290055:18628",
+                    "name": "\/Resources\/Resource859.mesh",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "_4"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "860",
+                    "uid": "1515547564291799:18634",
+                    "name": "\/Resources\/Resource860.mesh",
+                    "sourceFilePath": "\/Users\/kylechadwick\/Downloads\/defq8qotcwX_obj\/model.obj",
+                    "additionalProperties": {
+                        "name": "_5"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "863",
+                    "uid": "1515556010422083:36867",
+                    "name": "\/Resources\/Resource863.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "864",
+                    "uid": "1515864728256587:28100",
+                    "name": "\/Resources\/Resource864.png",
+                    "sourceFilePath": "C:\/Users\/Kyle\/Documents\/Snap\/2018_sprite.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "865",
+                    "uid": "1515864734654938:28169",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "867",
+                    "uid": "1515864734803930:28192",
+                    "name": "\/Resources\/Resource867",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "868",
+                    "uid": "1515894829481199:31525",
+                    "name": "\/Resources\/Resource868.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "869",
+                    "uid": "1515897372867224:49608",
+                    "name": "\/Resources\/Resource869.mp3",
+                    "sourceFilePath": "C:\/Users\/Kyle\/Downloads\/pump_up_clip.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "873",
+                    "uid": "1515907702875804:37819",
+                    "name": "\/Resources\/Resource873.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "877",
+                    "uid": "1515955336284701:34892",
+                    "name": "\/Resources\/Resource877.png",
+                    "sourceFilePath": "C:\/Users\/Kyle\/Documents\/Snap\/resolution_sprite.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507676290581751:18499",
+                "2": "1511403106934009:234679",
+                "3": "1515547563433332:18420",
+                "4": "1515547564288248:18604",
+                "5": "1515547564288268:18606",
+                "6": "1515547564289000:18612",
+                "7": "1515547564289115:18618",
+                "8": "1515547564289674:18624",
+                "9": "1515547564290070:18630",
+                "10": "1515864734570387:28111",
+                "11": "1515864734660865:28176",
+                "12": "1515864734667433:28177",
+                "13": "1515894696751086:31491"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "1",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "7",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "IdleAnim",
+                                "resourceId": "14",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "TapAnim",
+                                "resourceId": "53",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "base",
+                                "resourceId": "40",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "marvista_diff",
+                                "resourceId": "238",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "marvista_spec",
+                                "resourceId": "239",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "579",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "plane",
+                                "resourceId": "799",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "resourceId": "798",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "800",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "barbell",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "mat0",
+                                        "resourceId": "804",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat1",
+                                        "resourceId": "805",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat2",
+                                        "resourceId": "806",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat3",
+                                        "resourceId": "807",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat4",
+                                        "resourceId": "808",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat5",
+                                        "resourceId": "809",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat6",
+                                        "resourceId": "810",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat7",
+                                        "resourceId": "811",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat8",
+                                        "resourceId": "812",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat9",
+                                        "resourceId": "813",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat10",
+                                        "resourceId": "814",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat11",
+                                        "resourceId": "815",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat12",
+                                        "resourceId": "816",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat13",
+                                        "resourceId": "817",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat14",
+                                        "resourceId": "818",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat15",
+                                        "resourceId": "819",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat16",
+                                        "resourceId": "820",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat17",
+                                        "resourceId": "821",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat18",
+                                        "resourceId": "822",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat19",
+                                        "resourceId": "823",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat20",
+                                        "resourceId": "824",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat21",
+                                        "resourceId": "825",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat22",
+                                        "resourceId": "826",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat23",
+                                        "resourceId": "827",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat24",
+                                        "resourceId": "828",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat25",
+                                        "resourceId": "829",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "_1",
+                                        "resourceId": "856",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "_2",
+                                        "resourceId": "857",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "_3",
+                                        "resourceId": "858",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "_4",
+                                        "resourceId": "859",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "_5",
+                                        "resourceId": "860",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "PlayAnimation",
+                        "resourceId": "863",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "2018_sprite",
+                        "resourceId": "864",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "865",
+                        "extension": ""
+                    },
+                    {
+                        "name": "playMusic",
+                        "resourceId": "868",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "pump_up_clip",
+                        "resourceId": "869",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "873",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "resolution_sprite",
+                        "resourceId": "877",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/ground_grid.mesh"
+                },
+                {
+                    "id": "7",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "14",
+                    "path": "Scripts\/IdleAnim.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Textures\/base.png"
+                },
+                {
+                    "id": "53",
+                    "path": "Scripts\/TapAnim.js"
+                },
+                {
+                    "id": "238",
+                    "path": "Textures\/marvista_diff.png"
+                },
+                {
+                    "id": "239",
+                    "path": "Textures\/marvista_spec.png"
+                },
+                {
+                    "id": "579",
+                    "path": "Meshes\/touch_collision.mesh"
+                },
+                {
+                    "id": "799",
+                    "path": "Meshes\/plane.mesh"
+                },
+                {
+                    "id": "856",
+                    "path": "barbell\/Meshes\/_1.mesh"
+                },
+                {
+                    "id": "857",
+                    "path": "barbell\/Meshes\/_2.mesh"
+                },
+                {
+                    "id": "858",
+                    "path": "barbell\/Meshes\/_3.mesh"
+                },
+                {
+                    "id": "859",
+                    "path": "barbell\/Meshes\/_4.mesh"
+                },
+                {
+                    "id": "860",
+                    "path": "barbell\/Meshes\/_5.mesh"
+                },
+                {
+                    "id": "863",
+                    "path": "PlayAnimation.js"
+                },
+                {
+                    "id": "864",
+                    "path": "2018_sprite.png"
+                },
+                {
+                    "id": "868",
+                    "path": "playMusic.js"
+                },
+                {
+                    "id": "869",
+                    "path": "pump_up_clip.mp3"
+                },
+                {
+                    "id": "873",
+                    "path": "Plane.mesh"
+                },
+                {
+                    "id": "877",
+                    "path": "resolution_sprite.png"
+                }
+            ]
+        }
+    }
+}
